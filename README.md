@@ -10,6 +10,14 @@ Currently building MCP servers - the layer that lets AI assistants call real too
 React 19 · TypeScript · Supabase (Postgres + RLS) · live multi-field search · bookmarking · community submissions  
 [live](https://opportunity-hub-bm2w0h03y1b.qoder.website) · [repo](https://github.com/abhinavshukla152005-beep/OpportunityHub)
 
+**SpeakDaily** - two minutes of English speaking practice, every day  
+Vite + React · Supabase auth + Postgres + RLS · on-device speech analysis (Web Speech API + MediaRecorder) · 0-100 fluency score  
+[live](https://abhinavshukla152005-beep.github.io/speak-daily/) · [repo](https://github.com/abhinavshukla152005-beep/speak-daily)
+
+**SquadMatch** - find your missing hackathon teammate  
+React + Vite + Tailwind · Supabase auth/Postgres/RLS · transparent rule-based skill + availability matching  
+[live](https://abhinavshukla152005-beep.github.io/squadmatch/) · [repo](https://github.com/abhinavshukla152005-beep/squadmatch)
+
 **aura-household-agent** - stateless MCP server for Alexa+  
 Cross-session memory · autonomous re-planning · spend guardrails  
 [repo](https://github.com/abhinavshukla152005-beep/aura-household-agent)
