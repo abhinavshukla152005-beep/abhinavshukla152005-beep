@@ -8,7 +8,7 @@ Currently building MCP servers - the layer that lets AI assistants call real too
 
 **OpportunityHub** - one dashboard for internships, hackathons, scholarships and certifications  
 React 19 · TypeScript · Supabase (Postgres + RLS) · live multi-field search · bookmarking · community submissions  
-[repo](https://github.com/abhinavshukla152005-beep/OpportunityHub)
+[live](https://opportunity-hub-bm2w0h03y1b.qoder.website) · [repo](https://github.com/abhinavshukla152005-beep/OpportunityHub)
 
 **aura-household-agent** - stateless MCP server for Alexa+  
 Cross-session memory · autonomous re-planning · spend guardrails  
