@@ -1,6 +1,6 @@
 # Abhinav Shukla
 
-B.Tech CSE '29 · PSIT Kanpur · I build AI tooling and backend systems.
+B.Tech CSE '29 · I build AI tooling and backend systems.
 
 Currently building MCP servers - the layer that lets AI assistants call real tools.
 
